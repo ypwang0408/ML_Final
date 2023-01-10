@@ -17,4 +17,4 @@ My model achieves a score of 0.59021 on the private score.
 ![image](https://github.com/ypwang0408/ML_Final/blob/main/Score.png)
 
 ### Appendix
-The ```bad works.ipynb``` is the method I tried, but they all get poor scores, most of the just get 0.5, and some of them are just predict all not failure since the training set is imbalanced.
+The ```bad works.ipynb``` is the method I tried, but they all get poor scores, most of them just get 0.5, and some of them are just predict all "not failure" since the training set is imbalanced.
