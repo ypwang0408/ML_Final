@@ -10,7 +10,7 @@ pip install -r requirements.txt
 To train the model, what you need to do is to change the path for data and simply run all. 
 
 ## Inference
-To infer the result, you need to change the directory if you modify the outputs directory in train.ipynb and run all, you will get '109550008.csv' as my prediction. 
+To infer the result, you need to download ```model_lg.pkl``` and ```test_x.pkl```(since I pre-provess the data with the training set), change the directory if you modify the outputs directory in train.ipynb and run all, you will get '109550008.csv' as my prediction. 
 
 ## Results
 My model achieves a score of 0.59021 on the private score.  
